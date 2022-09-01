@@ -1,2 +1,2 @@
 #!/bin/bash
-[[:Upper:]]* /tmp/u
+*[[:Upper:]]* /tmp/u
