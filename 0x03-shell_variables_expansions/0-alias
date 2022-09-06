@@ -1,2 +1,2 @@
 #!/bin/bash
-alias getit=git push
+alias check=ls -la
